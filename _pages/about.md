@@ -12,6 +12,9 @@ profile:
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
+    <a href="/assets/pdf/Hong_Vinh_Vu_CV.pdf" class="btn btn-primary" download>  #This is addition, not the original verion
+    <i class="fas fa-download"></i> Download CV                                  #This is addition, not the original verion
+    </a>
 
 selected_papers: false # includes a list of papers marked as "selected={true}" #The original version is true, but i don't have any publish so turn off that function is necessary
 social: true # includes social icons at the bottom of the page
