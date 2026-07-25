@@ -35,17 +35,7 @@ cv:
         highlights:
           - Description 1.
           - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
-
+          
     Experience:
       - company: Institute for Advanced Study, Princeton University
         position: Professor of Theoretical Physics
@@ -65,25 +55,7 @@ cv:
         highlights:
           - Description 1.
           - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
+          
     Volunteer:
       - company: People's Climate March
         position: Lead Organizer
