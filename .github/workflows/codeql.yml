@@ -21,7 +21,7 @@ on:
 
 jobs:
   analyze:
-    if: ${{ !github.event.repository.private }} #This line mean it will skip the codeQL check when repo is private
+    if: ${{ !github.event.repository.private }} #This line mean it will skip the codeQL check when repo is private ( it's personal addition, not al-folio's origin)
     name: Analyze (${{ matrix.language }})
     # Runner size impacts CodeQL analysis time. To learn more, please see:
     #   - https://gh.io/recommended-hardware-resources-for-running-codeql
