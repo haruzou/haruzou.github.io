@@ -1,25 +1,23 @@
 cv:
   name: Hong Vinh Vu
-  label: Bachetlor
+#  label: Bachetlor
   email: yuvinh11@egmail.com
   location: Hanoi, VN
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+#  image: ""
+#  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   social_networks:
-    - network: FB
-      username: Vũ Vinh
     - network: GitHub
       username: vu-vinh
     - network: LinkedIn
       username: vu-vinh
 
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+#  address:
+#    street: 2712 Broadway St
+#    city: San Francisco
+#    region: California
+#    postalCode: CA 94115
+#    countryCode: US
 
   sections:
     Education:
