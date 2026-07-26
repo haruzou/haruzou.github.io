@@ -71,18 +71,6 @@ Prospective students are welcome. See <a href="{{ '/opportunities/' | relative_u
 </ul>
 
 <hr>
-
-Just to note one of the happiest moments of my life.
-
-<p style="text-align: center;">
-<img src="/assets/img/coffeeQuyNhon.jpg" alt="Activities banner" style="width:75%; height:auto;">
-</p>
-
-<p style="text-align: center;">
-  "Xin chào nhau giữa con đường <br>
-Mùa xuân phía trước, miên trường phía sau" <br>
-Bùi Giáng
-</p>
 #This addtional, not the original version
 
 I'm an undergraduate at the **Hanoi University of Science and Technology (HUST)**, majoring in Control and Automation Engineering, with a research focus on intelligent control (Fuzzy Logic, Neural Networks) and dynamic optimization (MPC, Reinforcement Learning). My long-term interest is applying reinforcement learning and optimal control methods to autonomous systems and robotics.
