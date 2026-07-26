@@ -27,10 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 #This addtional, not the original version
-
-
-
-
   
     <p class="meta">
       Lecturer, PhD in Electrical Engineering <br>
@@ -55,8 +51,6 @@ latest_posts:
       CTI Lab4EV: <a href="https://research.hust.edu.vn/seee-lab-control-technique-and-innovation-lab" target="_blank" rel="noopener">https://research.hust.edu.vn/seee-lab-control-technique-and-innovation-lab</a>
     </p>
   
-
-
 ## Recent News
 
 <ul class="news-list">
