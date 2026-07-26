@@ -26,10 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<!-- Giữ nguyên phần ảnh và thông tin của template -->
-
-<!-- Bọc phần chữ vào div này -->
 <div style="overflow: hidden; display: block;">
+  <!-- This is an addition, not the original version. It solved the problem that the picture is floating so the content will overflow in the picture's field -->
   <p>
     I'm an undergraduate at the <strong>Hanoi University of Science and Technology (HUST)</strong>, majoring in Control and Automation Engineering, with a research focus on intelligent control (Fuzzy Logic, Neural Networks) and dynamic optimization (MPC, Reinforcement Learning). My long-term interest is applying reinforcement learning and optimal control methods to autonomous systems and robotics.
   </p>
