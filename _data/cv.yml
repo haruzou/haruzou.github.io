@@ -25,7 +25,7 @@ cv:
         location: Hanoi, Vietnam
         url: https://hust.edu.vn/
         area: Control and Automation Engineering
-        studyType: PhD
+        studyType: Banchelor
         start_date: 2024
         end_date: 2028
         score: ""
@@ -35,24 +35,24 @@ cv:
           - Description 2.
           
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Multi-Agent System Control (MASC) Research Laboratory, SEEE, HUST.
+        position: Research Assistant
+        location: HUST, VN
+        start_date: Mar 2026
+        end_date: Present
+        summary: Applied Optimal Control Algorithms and Intelligent Control Algorithms to optimize trajectory planning for Quadrotors.
         highlights:
-          - Relativity
-          - Description 2.
+          Developed a hybrid flight control framework by integrating PyTorch-based Deep Reinforcement Learning (DRL) for high-level dynamic trajectory planning with Model Predictive Control (MPC) and ANFIS for optimal trajectory tracking and nonlinear disturbance compensation.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Mechatronics Engineering Group (MEG),
+        Motion Control and Applied Robotics Laboratory (MoCAR LAB), SEEE, HUST.
+        position: Research Assistant
+        location: HUST, VN
+        start_date: Jul 2025
+        end_date: Mar 2026
+        summary: Kinematic Modeling and Control of a 6WD-6WS Mobile Robot based on ROS2.
         highlights:
-          - Description 1.
-          - Description 2.
+          Developed mathematical kinematic/dynamic models and motion control algorithms for a 6WD-6WS (6-Wheel Drive, 6-Wheel Steering) omnidirectional vehicle, implementing custom ROS2 navigation nodes, Gazebo physics simulations, and embedded MCU firmware for real-time trajectory tracking and multi-mode steering coordination.
           
     Volunteer:
       - company: People's Climate March
