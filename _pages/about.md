@@ -26,13 +26,22 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<div class="clearfix">
+<!-- Giữ nguyên phần ảnh và thông tin của template -->
+
+<!-- Bọc phần chữ vào div này -->
+<div style="overflow: hidden; display: block;">
   <p>
-    I'm an undergraduate at the **Hanoi University of Science and Technology (HUST)**, majoring in Control and Automation Engineering, with a research focus on intelligent control (Fuzzy Logic, Neural Networks) and dynamic optimization (MPC, Reinforcement Learning). My long-term interest is applying reinforcement learning and optimal control methods to autonomous systems and robotics.
+    I'm an undergraduate at the <strong>Hanoi University of Science and Technology (HUST)</strong>, majoring in Control and Automation Engineering, with a research focus on intelligent control (Fuzzy Logic, Neural Networks) and dynamic optimization (MPC, Reinforcement Learning). My long-term interest is applying reinforcement learning and optimal control methods to autonomous systems and robotics.
   </p>
+
   <p>
-    I'm currently a Research Assistant at the **Multi-Agent System Control (MASC) Laboratory**, SEEE, HUST, supervised by Assoc. Prof. Hoai Nam Nguyen, where I work on hybrid flight control frameworks combining Deep Reinforcement Learning with Model Predictive Control and ANFIS for quadrotor trajectory planning and tracking. Previously, I worked at the **Motion Control and Applied Robotics Laboratory (MoCAR)** under Assoc. Prof. Danh Huy Nguyen, developing kinematic and dynamic models for a 6WD-6WS omnidirectional mobile robot, along with ROS2 navigation nodes and embedded firmware for real-time trajectory tracking.
+    I'm currently a Research Assistant at the <strong>Multi-Agent System Control (MASC) Laboratory</strong>, SEEE, HUST, supervised by Assoc. Prof. Hoai Nam Nguyen, where I work on hybrid flight control frameworks combining Deep Reinforcement Learning with Model Predictive Control and ANFIS for quadrotor trajectory planning and tracking. Previously, I worked at the **Motion Control and Applied Robotics Laboratory (MoCAR)** under Assoc. Prof. Danh Huy Nguyen, developing kinematic and dynamic models for a 6WD-6WS omnidirectional mobile robot, along with ROS2 navigation nodes and embedded firmware for real-time trajectory tracking.
   </p>
+
+  <p>
+    Outside of research, I enjoy exploring controller design for quadrotors — from classical PID to self-tuning fuzzy and Lyapunov-based adaptive control — as a way to deepen my understanding of nonlinear control theory in practice.
+  </p>
+</div>
   <p>
     Outside of research, I enjoy exploring controller design for quadrotors — from classical PID to self-tuning fuzzy and Lyapunov-based adaptive control — as a way to deepen my understanding of nonlinear control theory in practice.
   </p>
