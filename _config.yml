@@ -228,7 +228,7 @@ collections:
     defaults:
       layout: post
     output: true
-  projects:
+  research:        # change from projects to reseach because i rename the _projects folder, this is optional
     output: true
   teachings:
     output: true
