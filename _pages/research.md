@@ -1,7 +1,7 @@
----
+--
 layout: page
-title: research
-permalink: /research/
+title: projects
+permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
@@ -9,9 +9,9 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="research">        <!-- but changed to research -->
-{% if site.enable_project_categories and page.display_categories %}
+<!-- pages/research.md -->
+<div class="research">
+{% if site.enable_research_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
@@ -19,7 +19,6 @@ horizontal: false
   </a>
   {% assign categorized_research = site.research | where: "category", category %}
   {% assign sorted_research = categorized_research | sort: "importance" %}
-  <!-- change all projects keyword to research  -->
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
@@ -42,10 +41,10 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_reseach = site.reseach | sort: "importance" %}
+{% assign sorted_research = site.research | sort: "importance" %}
 
   <!-- Generate cards for each project -->
-  <!-- keep all from here to end  -->
+
 {% if page.horizontal %}
 
   <div class="container">
