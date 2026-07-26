@@ -13,6 +13,7 @@ horizontal: false
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
+  <!-- change all project keyword to research, except projects_horizontal.liquid and projects.liquid -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
