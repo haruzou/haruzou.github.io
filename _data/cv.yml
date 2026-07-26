@@ -44,8 +44,7 @@ cv:
         highlights:
           Developed a hybrid flight control framework by integrating PyTorch-based Deep Reinforcement Learning (DRL) for high-level dynamic trajectory planning with Model Predictive Control (MPC) and ANFIS for optimal trajectory tracking and nonlinear disturbance compensation.
 
-      - company: Mechatronics Engineering Group (MEG),
-        Motion Control and Applied Robotics Laboratory (MoCAR LAB), SEEE, HUST.
+      - company: Mechatronics Engineering Group (MEG), Motion Control and Applied Robotics Laboratory (MoCAR LAB), SEEE, HUST.
         position: Research Assistant
         location: HUST, VN
         start_date: 2025
