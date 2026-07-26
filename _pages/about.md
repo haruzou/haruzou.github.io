@@ -66,7 +66,6 @@ latest_posts:
 
 </ul>
 
-<hr>
 #This addtional, not the original version
 
 I'm an undergraduate at the **Hanoi University of Science and Technology (HUST)**, majoring in Control and Automation Engineering, with a research focus on intelligent control (Fuzzy Logic, Neural Networks) and dynamic optimization (MPC, Reinforcement Learning). My long-term interest is applying reinforcement learning and optimal control methods to autonomous systems and robotics.
