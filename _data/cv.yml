@@ -3,8 +3,8 @@ cv:
   headline:
   email: yuvinh11@egmail.com
   location: Hanoi, VN
-  #  photo: images/profile.jpg
-  #  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+# photo: images/profile.jpg
+# summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   social_networks:
     - network: GitHub
@@ -12,12 +12,12 @@ cv:
     - network: LinkedIn
       username: vu-vinh
 
-  #  address:
-  #    street: 2712 Broadway St
-  #    city: San Francisco
-  #    region: California
-  #    postalCode: CA 94115
-  #    countryCode: US
+#  address:
+#    street: 2712 Broadway St
+#    city: San Francisco
+#    region: California
+#    postalCode: CA 94115
+#    countryCode: US
 
   sections:
     Education:
@@ -53,16 +53,16 @@ cv:
         highlights:
           - Developed mathematical kinematic/dynamic models and motion control algorithms for a 6WD-6WS (6-Wheel Drive, 6-Wheel Steering) omnidirectional vehicle, implementing custom ROS2 navigation nodes, Gazebo physics simulations, and embedded MCU firmware for real-time trajectory tracking and multi-mode steering coordination.
 
-    #   Volunteer:
-    #     - company: People's Climate March
-    #       position: Lead Organizer
-    #       location: Zurich, Switzerland
-    #       start_date: 2014-04-01
-    #       end_date: 2015-07-01
-    #       summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-    #      highlights:
-    #        - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-    #         - "Men of the year 2014 by Time magazine"
+#   Volunteer:
+#     - company: People's Climate March
+#       position: Lead Organizer
+#       location: Zurich, Switzerland
+#       start_date: 2014-04-01
+#       end_date: 2015-07-01
+#       summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+#      highlights:
+#        - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+#         - "Men of the year 2014 by Time magazine"
 
     Awards:
       - title: Nobel Prize in Physics
@@ -73,12 +73,12 @@ cv:
         url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
         summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
-    #      - title: Max Planck Medal
-    #        authors:
-    #          - "German Physical Society"
-    #        date: 2029
-    #        awarder: German Physical Society
-    #        summary: Awarded for outstanding scientific achievement
+#      - title: Max Planck Medal
+#        authors:
+#          - "German Physical Society"
+#        date: 2029
+#        awarder: German Physical Society
+#        summary: Awarded for outstanding scientific achievement
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
