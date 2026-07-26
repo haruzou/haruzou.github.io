@@ -12,7 +12,5 @@
     "pngjs": "^7.0.0",
     "prettier": "^3.8.0"
   },
-  "dependencies": {
-    "@vercel/speed-insights": "^2.0.0"
-  }
+  
 }
