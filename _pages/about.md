@@ -31,7 +31,7 @@ latest_posts:
 
 
 
-  <div>
+  
     <p class="meta">
       Lecturer, PhD in Electrical Engineering <br>
       Control Technique and Innovation Lab. for Electric Vehicles (CTI Lab4EV) <br>
@@ -54,7 +54,7 @@ latest_posts:
       LinkedIn: <a href="https://www.linkedin.com/in/nguyenbaohuy/" target="_blank" rel="noopener">https://www.linkedin.com/in/nguyenbaohuy/</a><br>
       CTI Lab4EV: <a href="https://research.hust.edu.vn/seee-lab-control-technique-and-innovation-lab" target="_blank" rel="noopener">https://research.hust.edu.vn/seee-lab-control-technique-and-innovation-lab</a>
     </p>
-  </div>
+  
 
 
 ## Recent News
