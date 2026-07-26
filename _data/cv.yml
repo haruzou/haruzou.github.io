@@ -47,7 +47,7 @@ cv:
       - company: Mechatronics Engineering Group (MEG), Motion Control and Applied Robotics Laboratory (MoCAR LAB), SEEE, HUST.
         position: Research Assistant
         location: HUST, VN
-        start_date: 2025
+        start_date: "2025-03-15"
         end_date: 2026
         summary: Kinematic Modeling and Control of a 6WD-6WS Mobile Robot based on ROS2.
         highlights:
