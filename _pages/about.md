@@ -41,7 +41,7 @@ latest_posts:
   <p>
     Outside of research, I enjoy exploring controller design for quadrotors — from classical PID to self-tuning fuzzy and Lyapunov-based adaptive control — as a way to deepen my understanding of nonlinear control theory in practice.
   </p>
-</div>
+
   <p>
     Outside of research, I enjoy exploring controller design for quadrotors — from classical PID to self-tuning fuzzy and Lyapunov-based adaptive control — as a way to deepen my understanding of nonlinear control theory in practice.
   </p>
