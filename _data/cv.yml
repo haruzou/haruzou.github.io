@@ -38,7 +38,7 @@ cv:
       - company: Multi-Agent System Control (MASC) Research Laboratory, SEEE, HUST.
         position: Research Assistant
         location: HUST, VN
-        start_date: 2026-03-20
+        start_date: 2026
         end_date: 2028
         summary: Applied Optimal Control Algorithms and Intelligent Control Algorithms to optimize trajectory planning for Quadrotors.
         highlights:
@@ -47,8 +47,8 @@ cv:
       - company: Mechatronics Engineering Group (MEG), Motion Control and Applied Robotics Laboratory (MoCAR LAB), SEEE, HUST.
         position: Research Assistant
         location: HUST, VN
-        start_date: 2025-07-18
-        end_date: 2025-03-15
+        start_date: 2025
+        end_date: 2026
         summary: Kinematic Modeling and Control of a 6WD-6WS Mobile Robot based on ROS2.
         highlights:
           - Developed mathematical kinematic/dynamic models and motion control algorithms for a 6WD-6WS (6-Wheel Drive, 6-Wheel Steering) omnidirectional vehicle, implementing custom ROS2 navigation nodes, Gazebo physics simulations, and embedded MCU firmware for real-time trajectory tracking and multi-mode steering coordination.
