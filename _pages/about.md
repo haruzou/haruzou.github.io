@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 #This addtional, not the original version
-# Hong-Vinh VU
 
-<div class="profile">
+
+
 
   <div>
     <p class="meta">
@@ -55,11 +55,7 @@ latest_posts:
       CTI Lab4EV: <a href="https://research.hust.edu.vn/seee-lab-control-technique-and-innovation-lab" target="_blank" rel="noopener">https://research.hust.edu.vn/seee-lab-control-technique-and-innovation-lab</a>
     </p>
   </div>
-</div>
 
-## Highlight: Always call for students
-
-Prospective students are welcome. See <a href="{{ '/opportunities/' | relative_url }}">Opportunities</a>.
 
 ## Recent News
 
