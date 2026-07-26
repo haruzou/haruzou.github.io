@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 #This addtional, not the original version
-<div class="profile">
+<div class="right">
   <div>
     <p class="meta">
       Lecturer, PhD in Electrical Engineering <br>
