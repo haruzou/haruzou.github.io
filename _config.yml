@@ -2,6 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
+
+
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Hong Vinh
 #middle_name: R.
@@ -21,9 +23,13 @@ last_updated: true # set to true if you want to display last updated in the foot
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
+
+
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
+
+
 
 # repo color theme
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
@@ -40,9 +46,13 @@ external_services:
   github_readme_stats_url: https://github-readme-stats.vercel.app
   github_profile_trophy_url: https://github-profile-trophy.vercel.app
 
+
+
 # -----------------------------------------------------------------------------
 # al-folio API (v1.x)
 # -----------------------------------------------------------------------------
+
+
 
 al_folio:
   api_version: 1
@@ -70,15 +80,24 @@ al_folio:
     channel: stable
     auto_apply_safe_fixes: false
 
+
+
 # -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------
+
+
+
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
+
+
 
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
+
+
 
 navbar_fixed: true
 footer_fixed: true
@@ -90,18 +109,27 @@ bib_search: true
 # Dimensions
 max_width: 930px
 
+
+
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
+
+
+
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
+
+
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
+
+
 
 analytics:
   # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
@@ -115,12 +143,16 @@ analytics:
 google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
+
+
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+
+
+blog_name: Hong-Vinh VU # blog_name will be displayed in your blog page
+blog_description: Personal Blog & Research Updates
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -168,18 +200,26 @@ external_sources:
     categories: [external-posts]
     tags: [google]
 
+
+
 # -----------------------------------------------------------------------------
 # Newsletter
 # -----------------------------------------------------------------------------
+
+
 
 newsletter:
   enabled: false
   endpoint: # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/YOUR-ENDPOINT)
   # https://loops.so/docs/forms/custom-form
 
+
+
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
+
+
 
 collections:
   books:
@@ -193,9 +233,13 @@ collections:
   teachings:
     output: true
 
+
+
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
+
+
 
 # Markdown and syntax highlight
 markdown: kramdown
@@ -294,9 +338,13 @@ defaults:
 sass:
   style: compressed
 
+
+
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
 # -----------------------------------------------------------------------------
+
+
 
 jekyll-minifier:
   compress_javascript: false # set to false since we are using terser as the js minifier
@@ -308,17 +356,25 @@ jekyll-minifier:
   # JS minification is delegated to jekyll-terser (compress_javascript above is false).
   exclude: ["robots.txt"]
 
+
+
 # -----------------------------------------------------------------------------
 # Terser
 # -----------------------------------------------------------------------------
+
+
 
 terser:
   compress:
     drop_console: true
 
+
+
 # -----------------------------------------------------------------------------
 # Jekyll Archives
 # -----------------------------------------------------------------------------
+
+
 
 jekyll-archives:
   posts:
@@ -333,9 +389,13 @@ jekyll-archives:
 display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
+
+
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
+
+
 
 scholar:
   last_name: [Einstein]
@@ -408,9 +468,13 @@ more_authors_animation_delay: 10 # more authors are revealed on click using anim
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
 enable_publication_thumbnails: true
 
+
+
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes
 # -----------------------------------------------------------------------------
+
+
 
 # These are the defaults
 external_links:
@@ -419,9 +483,13 @@ external_links:
   target: _blank
   exclude:
 
+
+
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
 # -----------------------------------------------------------------------------
+
+
 
 # MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
 #   convert -version
@@ -450,9 +518,13 @@ imagemagick:
 #   See https://web.dev/browser-level-image-lazy-loading/ for more information.
 lazy_loading_images: true # enables lazy loading of images (recommended)
 
+
+
 # -----------------------------------------------------------------------------
 # Optional Features
 # -----------------------------------------------------------------------------
+
+
 
 enable_google_verification: false # enables google site verification
 enable_bing_verification: false # enables bing site verification
@@ -467,9 +539,13 @@ enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
 enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
 
+
+
 # -----------------------------------------------------------------------------
 # Library versions
 # -----------------------------------------------------------------------------
+
+
 
 # Add the url, version and integrity hash of the libraries you use in your site.
 # The integrity hash is used to ensure that the library is not tampered with.
@@ -676,9 +752,13 @@ third_party_libraries:
       js_map: "https://cdn.jsdelivr.net/npm/vega-lite@{{version}}/build/vega-lite.min.js.map"
     version: "5.16.3"
 
+
+
 # -----------------------------------------------------------------------------
 # Get external JSON data
 # -----------------------------------------------------------------------------
+
+
 
 jekyll_get_json:
   - data: resume
