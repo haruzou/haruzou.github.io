@@ -4,7 +4,7 @@ title: project 4
 description: another without an image
 img:
 importance: 3
-category: Intelligent Control
+category: Optimal Control
 ---
 
 Every project has a beautiful feature showcase page.
