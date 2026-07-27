@@ -4,7 +4,7 @@ title: project 7
 description: with background image
 img: assets/img/4.jpg
 importance: 1
-category: Optimization Control
+category: Intelligent Control
 related_publications: true
 ---
 
