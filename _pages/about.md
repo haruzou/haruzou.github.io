@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://seee.hust.edu.vn/en/'> Control engineering and Automaution / School of Electrical Engineering and Electronics (SEEE) </a>.
+subtitle: <a href='https://seee.hust.edu.vn/en/'> Control and Automaution Engineering / School of Electrical Engineering and Electronics (SEEE) </a>.
 profile:
   align: left
   image: prof_pic.jpg
