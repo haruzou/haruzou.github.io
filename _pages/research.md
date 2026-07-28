@@ -8,7 +8,15 @@ nav_order: 3
 display_categories: [Optimal Control, Intelligent Control]
 horizontal: false
 ---
+<!-- This is additional, not the original version -->
+<style>
+.projects h2.category {
+  text-align: left;
+  color: var(--global-theme-color);
+}
+</style>
 
+<!-- This is additional, not the original version -->
 <!-- pages/research.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
