@@ -16,7 +16,6 @@ horizontal: false
 }
 </style>
 
-<!-- This is additional, not the original version -->
 <!-- pages/research.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
