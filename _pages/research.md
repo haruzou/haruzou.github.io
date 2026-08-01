@@ -47,11 +47,8 @@ horizontal: false
 {% else %}
 
 <!-- Display projects without categories -->
-
 {% assign sorted_research = site.research | sort: "importance" %}
-
   <!-- Generate cards for each project -->
-
 {% if page.horizontal %}
 
   <div class="container">
