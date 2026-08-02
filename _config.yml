@@ -128,7 +128,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Hong-Vinh VU # blog_name will be displayed in your blog page
-blog_description: A personal Blog & Research Updates
+blog_description: A personal blog & research updates
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
