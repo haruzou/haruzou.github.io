@@ -2,8 +2,6 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-
-
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Hong-Vinh
 #middle_name: R.
@@ -23,8 +21,6 @@ baseurl: #/al-folio    # the subpath of your site, e.g. /blog/. Leave blank for 
 last_updated: true     # set to true if you want to display last updated in the footer
 impressum_path:        # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true      # set to false to disable the back to top button
-
-
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -131,7 +127,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Hpng-Vinh VU # blog_name will be displayed in your blog page
+blog_name: Hong-Vinh VU # blog_name will be displayed in your blog page
 blog_description: A personal Blog & Research Updates
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
