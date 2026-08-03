@@ -2,12 +2,19 @@
 layout: page
 title: research
 permalink: /research/
-description: A growing collection of your cool projects.
+description: 
 nav: true
 nav_order: 3
 display_categories: [Optimal Control, Intelligent Control]
 horizontal: false
 ---
+# Research Vision
+My research is positioned at the intersection of control engineering, electrified transportation, power electronics, and modern power systems. I focus on developing control-oriented models, advanced control strategies, optimal energy management algorithms, and simulation/HIL platforms for energy systems with high penetration of power electronics, electric vehicles, renewable energy resources, and distributed energy storage.
+
+A central objective of my work is to use control engineering as a unifying methodological foundation to address the modeling, optimization, stability, and real-time implementation challenges of the energy transition. My research activities are organized around four flagship themes.
+
+# Projects
+
 <!-- This is additional, not the original version -->
 <style>
 .projects h2.category {
