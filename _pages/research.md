@@ -13,7 +13,7 @@ My research is positioned at the intersection of control engineering, electrifie
 
 A central objective of my work is to use control engineering as a unifying methodological foundation to address the modeling, optimization, stability, and real-time implementation challenges of the energy transition. My research activities are organized around four flagship themes.
 
-## projects
+# projects
 
 <!-- This is additional, not the original version -->
 <style>
