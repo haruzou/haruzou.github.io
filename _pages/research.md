@@ -24,7 +24,7 @@ A central objective of my work is to use control engineering as a unifying metho
 </style>
 
 <div class="projects">
-{% if site.enable_research_categories and page.display_categories %}
+{% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   <!-- change all project keyword to research, except projects_horizontal.liquid and projects.liquid -->
   {% for category in page.display_categories %}
