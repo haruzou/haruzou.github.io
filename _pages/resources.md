@@ -7,7 +7,7 @@ nav_order: 5
 dropdown: true
 children:
   - title: documents
-    permalink: /doc/
+    permalink: /docs/
   - title: divider
   # - title: blog
   #  permalink: /blog/
