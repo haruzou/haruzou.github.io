@@ -1,9 +1,15 @@
 ---
 layout: page
 title: resources
-permalink: /resoures/
+permalink: /resources/
 nav: true
 nav_order: 5
-description: #featured and bundled plugin ecosystem catalog for al-folio v1.x
+dropdown: true
+children:
+  - title: bookshelf
+    permalink: /books/
+  - title: divider
+  - title: blog
+    permalink: /blog/
 ---
 This page collects simulation files, books, templates, and other resources.
