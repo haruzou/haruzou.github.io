@@ -200,10 +200,6 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  courses:
-    output: true
-  documents:
-    output: true
   news:
     defaults:
       layout: post
