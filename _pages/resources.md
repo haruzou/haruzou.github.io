@@ -9,7 +9,7 @@ children:
   - title: documents
     permalink: /docs/
   - title: divider
-  # - title: blog
-  #  permalink: /blog/
+  - title: course
+    permalink: /course/
 ---
 This page collects simulation files, books, templates, and other resources.
