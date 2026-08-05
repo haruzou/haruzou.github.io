@@ -1,5 +1,5 @@
 ---
-layout: book-shelf
+layout: page
 title: courses
 permalink: /courses/
 nav: false
